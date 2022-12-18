@@ -15,4 +15,9 @@ public class ExampleTest {
     void exampleTest1() {
         Assertions.assertTrue(3 >= 10);
     }
+
+    @Test
+    void homeWork () {
+        Assertions.assertTrue(150 > 100);
+    }
 }
