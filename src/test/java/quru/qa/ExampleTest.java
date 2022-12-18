@@ -2,6 +2,7 @@ package quru.qa;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import java.util.Random;
 
 public class ExampleTest {
 
