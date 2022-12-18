@@ -18,6 +18,6 @@ public class ExampleTest {
 
     @Test
     void homeWork () {
-        Assertions.assertTrue(150 > 100);
+        Assertions.assertTrue(150 >= new Random().nextInt());
     }
 }
